@@ -176,8 +176,10 @@
 
 ## 💻 Let's Connect!
 
-- LinkedIn: [mcrai-dev](https://www.linkedin.com/in/mcrai-dev/)
-- Twitter: [@mcrai_dev](https://twitter.com/mcrai_dev)
-- Blog: [mcrai-dev Blog](https://mcrai-dev-blog.com)
+<p align="left">
+  <a href="https://linkedin.com/in/mcrai-laydam"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/mcrai-laydam"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:mcrai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 Feel free to reach out to me for collaboration or any questions you have! Let's build and learn together!
