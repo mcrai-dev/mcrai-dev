@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
@@ -48,15 +48,4 @@
 ## 📌 Pinned Repositories:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=anti-intrusion-machine-learning&theme=radical)](https://github.com/mcrai-dev/anti-intrusion-machine-learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=machine-learning-weather-prediction&theme=radical)](https://github.com/mcrai-dev/machine-learning-weather-prediction)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=iot-dashboard&theme=radical)](https://github.com/mcrai-dev/iot-dashboard)
-
-## 🎉 Fun Facts:
-- I love coding and open-source.
-- I'm always keen to learn new technologies and tools.
-- I enjoy working on challenging projects and solving complex problems.
-
-## 📅 Weekly Development Breakdown:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=iot-dashboard&
