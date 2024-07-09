@@ -22,9 +22,8 @@
 </p>
 
 ## 🚀 Projects & Contributions:
-- [Project 1](https://github.com/mcrai-dev/project1): Description of project 1 with some details and key achievements.
-- [Project 2](https://github.com/mcrai-dev/project2): Description of project 2 with some details and key achievements.
-- [Project 3](https://github.com/mcrai-dev/project3): Description of project 3 with some details and key achievements.
+- [Project 1](https://github.com/mcrai-dev/Devops): Devops Explanation and training for ENI students.
+- [Project 2](https://github.com/mcrai-dev/iot-dashboard): Conference based on IoT and Machine Learning. 
 
 ## 📈 Contribution Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcrai-dev&theme=radical)
