@@ -96,6 +96,6 @@
 ![snake gif](https://github.com/mcrai-dev/mcrai-dev/blob/output/github-contribution-grid-snake.gif)
 
 ## 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-mcrai@teste.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mcrai@teste.com)
+[![Gmail Badge](https://img.shields.io/badge/-laydamcrai@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laydamcrai@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-mcrai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mcrai)
 [![GitHub Badge](https://img.shields.io/badge/-mcrai--dev-333?style=flat&logo=GitHub&logoColor=white)](https://github.com/mcrai-dev)
