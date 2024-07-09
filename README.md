@@ -1,5 +1,7 @@
 # Welcome to mcrai-dev's World! 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 ## 🛠 Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -13,12 +15,11 @@
 </p>
 
 ## 🔥 My Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcrai-dev&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mcrai-dev&theme=radical)](https://git.io/streak-stats)
-
-## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcrai-dev&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mcrai-dev&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcrai-dev&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcrai-dev&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
 
 ## 🚀 Projects & Contributions:
 - [Project 1](https://github.com/mcrai-dev/project1): Description of project 1 with some details and key achievements.
@@ -29,7 +30,9 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcrai-dev&theme=radical)
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=mcrai-dev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mcrai-dev&theme=radical" alt="GitHub Trophies"/>
+</p>
 
 ## 💻 Workspace Setup:
 - **Operating System:** Windows / MacOS / Linux
@@ -37,13 +40,15 @@
 - **Terminal:** Hyper / iTerm2 / Git Bash
 
 ## 💬 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mcrai-dev)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mcrai-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mcrai@teste.com)
+<p align="left">
+  <a href="https://linkedin.com/in/mcrai-laydam"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/mcrai-laydam"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:mcrai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ## 📌 Pinned Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=your-repo-name&theme=radical)](https://github.com/mcrai-dev/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=another-repo-name&theme=radical)](https://github.com/mcrai-dev/another-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=anti-intrusion-machine-learning&theme=radical)](https://github.com/mcrai-dev/anti-intrusion-machine-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=machine-learning-weather-prediction&theme=radical)](https://github.com/mcrai-dev/machine-learning-weather-prediction)
 
 ## 🎉 Fun Facts:
 - I love coding and open-source.
@@ -54,3 +59,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
