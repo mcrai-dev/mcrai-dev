@@ -12,6 +12,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
 
 ## 🔥 My Stats:
@@ -22,8 +25,9 @@
 </p>
 
 ## 🚀 Projects & Contributions:
-- [Project 1](https://github.com/mcrai-dev/Devops): Devops Explanation and training for ENI students.
-- [Project 2](https://github.com/mcrai-dev/iot-dashboard): Conference based on IoT and Machine Learning. 
+- [IoT Dashboard](https://github.com/mcrai-dev/iot-dashboard): Tension and Current measurement using IoT devices.
+- [DevOps Training](https://github.com/mcrai-dev/Devops): DevOps explanation and training for ENI students.
+- [Machine Learning Weather Prediction](https://github.com/mcrai-dev/machine-learning-weather-prediction): A project on predicting weather conditions using machine learning algorithms.
 
 ## 📈 Contribution Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcrai-dev&theme=radical)
