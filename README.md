@@ -7,6 +7,19 @@
 ### Languages
 <table>
   <tr>
+    <th>C</th>
+    <th>Java</th>
+    <th>JavaScript</th>
+    <th>HTML5</th>
+    <th>CSS3</th>
+    <th>Python</th>
+    <th>MATLAB</th>
+    <th>SQLite</th>
+    <th>MySQL</th>
+    <th>PostgreSQL</th>
+    <th>MongoDB</th>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
@@ -24,6 +37,16 @@
 ### Frameworks
 <table>
   <tr>
+    <th>React</th>
+    <th>Spring</th>
+    <th>TensorFlow</th>
+    <th>Flask</th>
+    <th>Bootstrap</th>
+    <th>Node.js</th>
+    <th>FastAPI</th>
+    <th>jQuery</th>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></td>
@@ -37,6 +60,21 @@
 
 ### Tools
 <table>
+  <tr>
+    <th>AWS</th>
+    <th>Git</th>
+    <th>Docker</th>
+    <th>Postman</th>
+    <th>Swagger</th>
+    <th>Jupyter</th>
+    <th>Anaconda</th>
+    <th>Spark</th>
+    <th>OpenCV</th>
+    <th>YOLO</th>
+    <th>VSCode</th>
+    <th>Visual Studio</th>
+    <th>Android Studio</th>
+  </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></td>
@@ -57,6 +95,12 @@
 ### Databases
 <table>
   <tr>
+    <th>MySQL</th>
+    <th>PostgreSQL</th>
+    <th>MongoDB</th>
+    <th>Firebase</th>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></td>
@@ -67,6 +111,12 @@
 ### DevOps/Cloud
 <table>
   <tr>
+    <th>Docker</th>
+    <th>Jenkins</th>
+    <th>GitHub</th>
+    <th>Google Cloud</th>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></td>
@@ -74,28 +124,26 @@
   </tr>
 </table>
 
-### OS and Other Tools
+### Data Science/Machine Learning
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="kali" width="40" height="40"/></td>
+    <th>TensorFlow</th>
+    <th>Keras</th>
+    <th>Pandas</th>
+    <th>NumPy</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></td>
   </tr>
 </table>
 
-## 🔥 My Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcrai-dev&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcrai-dev&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcrai-dev&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+## 💻 Let's Connect!
 
-## 📈 Contributions
-![snake gif](https://github.com/mcrai-dev/mcrai-dev/blob/output/github-contribution-grid-snake.gif)
+- LinkedIn: [mcrai-dev](https://www.linkedin.com/in/mcrai-dev/)
+- Twitter: [@mcrai_dev](https://twitter.com/mcrai_dev)
+- Blog: [mcrai-dev Blog](https://mcrai-dev-blog.com)
 
-## 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-laydamcrai@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laydamcrai@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-mcrai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mcrai)
-[![GitHub Badge](https://img.shields.io/badge/-mcrai--dev-333?style=flat&logo=GitHub&logoColor=white)](https://github.com/mcrai-dev)
+Feel free to reach out to me for collaboration or any questions you have! Let's build and learn together!
