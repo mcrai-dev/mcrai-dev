@@ -144,20 +144,21 @@
 ## 🔥 Plateforme:
 <table>
   <tr>
-    <th>YOLO</th>
+    <th>Ultralytics</th>
     <th>Kaggle</th>
     <th>Google Colab</th>
     <th>Hugging Face</th>
     <th>Ollama</th>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Yolo_logo.svg" alt="yolo" width="40" height="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Yolo_logo.svg" alt="ultralytics" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="googlecolab" width="40" height="40"/></td>
     <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></td>
     <td><img src="https://private-user-images.githubusercontent.com/3325447/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1NDYzMTMsIm5iZiI6MTcyMDU0NjAxMywicGF0aCI6Ii8zMzI1NDQ3LzI1NDkzMjU3Ni0wZDBiNDRlMi04ZjRhLTRlOTktOWI1Mi1hNWMxYzc0MWM4ZjcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDcwOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA3MDlUMTcyNjUzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTFhOGZjYmQyNGIzM2QyZjY2NjdhYzllN2RkMDYwMzVlNDI2YzViMjhjMjhmN2UxYzliMWI3NzYwNzBlMDU5ZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.wNs5BV-MYwAYKhWCfNT-jqW2rvI3pD0EeKjxMZFdtow" alt="ollama" width="40" height="40"/></td>
   </tr>
 </table>
+
 
 
 ## 🔥 My Stats:
