@@ -122,62 +122,77 @@
   </tr>
 </table>
 
-### Data Science/Machine Learning
-<table>
-  <tr>
-    <th>TensorFlow</th>
-    <th>Keras</th>
-    <th>Pandas</th>
-    <th>NumPy</th>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></td>
-  </tr>
-</table>
+## 🔭 Projects
 
-## 🔥 My Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcrai-dev&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcrai-dev&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcrai-dev&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+### Recent Projects
 
-## 📌 Pinned Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=anti-intrusion-machine-learning&theme=radical)](https://github.com/mcrai-dev/anti-intrusion-machine-learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=machine-learning-weather-prediction&theme=radical)](https://github.com/mcrai-dev/machine-learning-weather-prediction)
+- **Project Name**: [Description](https://github.com/mcrai-dev/project-link)
+- **Project Name**: [Description](https://github.com/mcrai-dev/project-link)
+- **Project Name**: [Description](https://github.com/mcrai-dev/project-link)
 
-## 🚀 Projects & Contributions:
-- [IoT Dashboard](https://github.com/mcrai-dev/iot-dashboard): Tension and Current measurement using IoT devices.
-- [DevOps Training](https://github.com/mcrai-dev/Devops): DevOps explanation and training for ENI students.
-- [Machine Learning Weather Prediction](https://github.com/mcrai-dev/machine-learning-weather-prediction): A project on predicting weather conditions using machine learning algorithms.
+### Featured Projects
 
-## 📈 Contribution Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcrai-dev&theme=radical)
+- **Project Name**: [Description](https://github.com/mcrai-dev/project-link)
+- **Project Name**: [Description](https://github.com/mcrai-dev/project-link)
+- **Project Name**: [Description](https://github.com/mcrai-dev/project-link)
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mcrai-dev&theme=radical" alt="GitHub Trophies"/>
-</p>
+## 📊 GitHub Stats
 
+![mcrai-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcrai-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcrai-dev&layout=compact&theme=radical)
 
-## 🎉 Fun Facts:
-- I love coding and open-source.
-- I'm always keen to learn new technologies and tools.
-- I enjoy working on challenging projects and solving complex problems.
+## 🏆 GitHub Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcrai-dev&theme=onedark)](https://github.com/mcrai-dev/github-profile-trophy)
 
-## 🕹️ GitHub Contributor:
-![GitHub Snake](https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg)
+## 🌟 Featured Repositories
 
-## 💻 Let's Connect!
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=repo-name&theme=radical)](https://github.com/mcrai-dev/repo-name)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=repo-name&theme=radical)](https://github.com/mcrai-dev/repo-name)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=repo-name&theme=radical)](https://github.com/mcrai-dev/repo-name)
 
-<p align="left">
-  <a href="https://linkedin.com/in/mcrai-laydam"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/mcrai-laydam"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:mcrai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+## 🏢 Work Experience
 
-Feel free to reach out to me for collaboration or any questions you have! Let's build and learn together!
+- **Job Title at Company Name**
+  - Description of responsibilities and accomplishments.
+
+- **Job Title at Company Name**
+  - Description of responsibilities and accomplishments.
+
+## 🏫 Education
+
+- **Degree Name**
+  - University Name
+  - Graduation Year
+
+## 🎓 Certifications
+
+- **Certification Name** - Issuing Organization
+- **Certification Name** - Issuing Organization
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcrai-dev)
+[![Personal Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-personal-website.com)
+
+## 📈 Profile Viewers
+
+![Visitor Count](https://profile-counter.glitch.me/mcrai-dev/count.svg)
+
+## 📝 Latest Blog Posts
+
+- [Blog Post Title](https://your-blog-link.com)
+- [Blog Post Title](https://your-blog-link.com)
+- [Blog Post Title](https://your-blog-link.com)
+
+## 📫 How to Reach Me
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub: [mcrai-dev](https://github.com/mcrai-dev)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
