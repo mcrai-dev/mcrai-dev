@@ -138,6 +138,23 @@
   </tr>
 </table>
 
+## 🔥 Plateforme:
+<table>
+  <tr>
+    <th>YOLO</th>
+    <th>Kaggle</th>
+    <th>Google Colab</th>
+    <th>Hugging Face</th>
+    <th>Ollama</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yolo/yolo-original.svg" alt="yolo" width="40" height="40"/></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="googlecolab" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg" alt="ollama" width="40" height="40"/></td>
+  </tr>
+
 ## 🔥 My Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mcrai-dev&show_icons=true&theme=radical" alt="GitHub stats"/>
