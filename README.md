@@ -113,14 +113,17 @@
     <th>Jenkins</th>
     <th>GitHub</th>
     <th>Google Cloud</th>
+    <th>GitHub Actions</th>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="githubactions" width="40" height="40"/></td>
   </tr>
 </table>
+
 
 ### Data Science/Machine Learning
 <table>
