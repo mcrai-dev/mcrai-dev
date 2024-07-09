@@ -202,3 +202,6 @@
 </p>
 
 Feel free to reach out to me for collaboration or any questions you have! Let's build and learn together!
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
