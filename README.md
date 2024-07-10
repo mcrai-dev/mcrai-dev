@@ -68,8 +68,7 @@
     <th>Jupyter</th>
     <th>Anaconda</th>
     <th>Spark</th>
-    <th>OpenCV</th>
-    <th>Ultralitics</th>
+    <th>OpenCV</th> 
     <th>VSCode</th>
     <th>Visual Studio</th>
     <th>Android Studio</th>
@@ -83,7 +82,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></td>
-    <td><img src="https://avatars.githubusercontent.com/u/26833451?s=280&v=4" alt="Ultralitics" width="40" height="40"/></td>
+    
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/></td>
@@ -151,7 +150,7 @@
     <th>Ollama</th>
   </tr>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Yolo_logo.svg" alt="ultralytics" width="40" height="40"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/26833451?s=280&v=4" alt="Ultralitics" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="googlecolab" width="40" height="40"/></td>
     <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></td>
