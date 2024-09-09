@@ -170,6 +170,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=anti-intrusion-machine-learning&theme=radical)](https://github.com/mcrai-dev/anti-intrusion-machine-learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=machine-learning-weather-prediction&theme=radical)](https://github.com/mcrai-dev/machine-learning-weather-prediction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=zettajs-iot-machine-learning&theme=radical)](https://github.com/mcrai-dev/zettajs-iot-machine-learning) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mcrai-dev&repo=robotic-arms-Computer-Vision&theme=radical)](https://github.com/mcrai-dev/robotic-arms-Computer-Vision) 
 
 ## 🚀 Projects & Contributions:
 - [IoT Dashboard](https://github.com/mcrai-dev/iot-dashboard): Tension and Current measurement using IoT devices.
