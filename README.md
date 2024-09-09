@@ -1,4 +1,4 @@
-# Welcome to mcrai-dev's World! 👋
+# Check out my portfolio! 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
