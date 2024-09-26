@@ -189,6 +189,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/mcrai-dev/count.svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mcrai-dev&color=brightgreen&style=flat)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 
 ## 🎉 Fun Facts:
 - I love coding and open-source.
